@@ -7,16 +7,17 @@ Thanks for visiting my GitHub profile. Have a great day ahead!
 
 ```js
 const Tom = {
- FavoriteLanguage: PHP,
- Learning: Symfony,
- ProjectInMind:  Ecommerce,
- OpenedPullRequests: 226,
- TotalCommits: 5471,
- OpenedIssues: 22,
- Stars: 11,
+ FavoriteLanguage: Bash,
+ Learning: Java,
+ OS: Arch Linux (btw)
+ ProjectInMind:  Package Manager,
+ OpenedPullRequests: {{ PULL_REQUESTS }},
+ TotalCommits: {{ COMMITS }},
+ OpenedIssues: {{ ISSUES }},
+ Stars: {{ STARS }},
  Repositories: {
-    Created: 18,
-    Contributed: 2
+    Created: {{ REPOSITORIES }},
+    Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
  },
 }; // My stats as an Epic Object ✨
 ```
@@ -52,7 +53,7 @@ const Tom = {
 
 <h2 align="center"> ⚙️ Last Updated ⚙️ </h2>
 
-<!-- Last updated on Sun Apr 13 2025 16:24:14 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Sun Apr 13 2025 21:48:17 GMT+0000 (Coordinated Universal Time) ;-;-->
 <div align="center">
 <i>Last updated on 13th April 2025 using Samsung Smart Refrigerator</i> 🧊 
 </div>
