@@ -45,9 +45,10 @@ Thanks for visiting my GitHub profile. Have a great day ahead!
 
 \`\`\`js
 const Tom = {
- FavoriteLanguage: PHP,
- Learning: Symfony,
- ProjectInMind:  Ecommerce,
+ FavoriteLanguage: Bash,
+ Learning: Java,
+ OS: Arch Linux (btw)
+ ProjectInMind:  Package Manager,
  OpenedPullRequests: {{ PULL_REQUESTS }},
  TotalCommits: {{ COMMITS }},
  OpenedIssues: {{ ISSUES }},
