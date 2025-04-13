@@ -11,13 +11,13 @@ const Tom = {
  Learning: Java,
  OS: Arch Linux (btw)
  ProjectInMind:  Package Manager,
- OpenedPullRequests: {{ PULL_REQUESTS }},
- TotalCommits: {{ COMMITS }},
- OpenedIssues: {{ ISSUES }},
- Stars: {{ STARS }},
+ OpenedPullRequests: 227,
+ TotalCommits: 5478,
+ OpenedIssues: 22,
+ Stars: 11,
  Repositories: {
-    Created: {{ REPOSITORIES }},
-    Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
+    Created: 18,
+    Contributed: 3
  },
 }; // My stats as an Epic Object ✨
 ```
