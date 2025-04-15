@@ -6,13 +6,9 @@
   "repository": "https://github.com/wodosharlatan/wodosharlatan",
   "author": "wodsharalatan <tombos255@gmail.com>",
   "license": "MIT",
-  "private": false,
   "dependencies": {
     "fs": "^0.0.1-security",
     "node-fetch": "^2.6.9",
     "path": "^0.12.7"
   }
 }
-
-
-
