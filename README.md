@@ -8,7 +8,7 @@ int main() {
 
 ```
 
-<h2 align="center"> 💻 Some of the things I use💻 </h2>
+<h2 align="center"> 💻 Some of the things I use 💻 </h2>
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
